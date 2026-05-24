@@ -10,8 +10,7 @@ Focused on low-level systems engineering, code optimization, performance analysi
 
 ### 🛠️ Technologies & Skills
 - **Languages:** C, C++, Python
-- **Areas of Focus:** Concurrent Programming, Distributed Systems, WebAssembly (Wasm), Advanced Linux, and Performance Optimization.
-- **Key Strengths:** Hands-on experience with embedded/mobile hardware benchmarking and a strong foundation in computer architecture education.
+- **Areas of Focus:** RISC-V, Linux and Performance Optimization.
 
 ### 📂 Highlighted Projects
 * 📊 **[Wasm vs JS Performance Analysis](https://github.com/MuriloMatos2004/TCC-performance-Wasm-JS-Linux-mobile):** Bachelor's Thesis investigating execution bottlenecks and performance metrics in Linux-based mobile environments.
@@ -27,8 +26,7 @@ Focado em engenharia de sistemas de baixo nível, otimização de código, anál
 
 ### 🛠️ Tecnologias & Competências
 - **Linguagens:** C, C++, Python
-- **Áreas de Foco:** Programação Concorrente, Sistemas Distribuídos, WebAssembly (Wasm), Linux Avançado e Otimização de Performance.
-- **Diferenciais:** Experiência prática com benchmarks de hardware embarcado/mobile e didática em arquitetura de computadores.
+- **Áreas de Foco:** RISC-V, Linux e Otimização de Performance.
 
 ### 📂 Projetos em Destaque
 * 📊 **[Análise de Performance Wasm vs JS](https://github.com/MuriloMatos2004/TCC-performance-Wasm-JS-Linux-mobile):** Trabalho de Conclusão de Curso (TCC) focado na investigação de gargalos e métricas de desempenho em ambientes mobile baseados em Linux.
@@ -36,4 +34,4 @@ Focado em engenharia de sistemas de baixo nível, otimização de código, anál
 
 ---
 
-📫 **Connect with me / Como me encontrar:** [LinkedIn](COLE_O_LINK_DO_SEU_PERFIL_AQUI)
+📫 **Connect with me / Como me encontrar:** [LinkedIn](https://www.linkedin.com/in/murilo-fonseca-de-matos/)
