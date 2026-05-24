@@ -14,7 +14,7 @@ Focused on low-level systems engineering, code optimization, performance analysi
 
 ### 📂 Highlighted Projects
 * 📊 **[Wasm vs JS Performance Analysis](https://github.com/MuriloMatos2004/Mobile-Wasm-Benchmarker):** Bachelor's Thesis investigating execution bottlenecks and performance metrics in Linux-based mobile environments.
-* 🗺️ **[The Instruction Cycle](https://github.com/MuriloMatos2004/O-ciclo-de-instrucao):** An educational comic strip designed to make Computer Organization and Architecture concepts engaging and accessible.
+* 🗺️ **[The Instruction Cycle](https://github.com/MuriloMatos2004/computer-architecture-in-comic-book-form):** An educational comic strip designed to make Computer Organization and Architecture concepts engaging and accessible.
 
 ---
 
@@ -30,7 +30,7 @@ Focado em engenharia de sistemas de baixo nível, otimização de código, anál
 
 ### 📂 Projetos em Destaque
 * 📊 **[Análise de Performance Wasm vs JS](https://github.com/MuriloMatos2004/Mobile-Wasm-Benchmarker):** Trabalho de Conclusão de Curso (TCC) focado na investigação de gargalos e métricas de desempenho em ambientes mobile baseados em Linux.
-* 🗺️ **[O Ciclo de Instrução](https://github.com/MuriloMatos2004/O-ciclo-de-instrucao):** Material didático em formato de banda desenhada (HQ) para o ensino de Organização e Arquitetura de Computadores.
+* 🗺️ **[O Ciclo de Instrução](https://github.com/MuriloMatos2004/computer-architecture-in-comic-book-form):** Material didático em formato de banda desenhada (HQ) para o ensino de Organização e Arquitetura de Computadores.
 
 ---
 
